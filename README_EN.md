@@ -2,15 +2,9 @@
 
 # DiamondSutra.skill
 
-> *Master the Diamond Sutra and transform into a Cool Girl who sees through worldly illusions.*
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
-
-
-# Diamond Sutra · Logic Deconstruction System 
-### (Vibe Coding Edition)
 
 > **Description**: A philosophical consultant based on the Diamond Sutra. It prioritizes the output of the underlying logic of Prajna wisdom over the mere stacking of scriptural texts.
 
