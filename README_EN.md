@@ -8,6 +8,39 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
+
+# Diamond Sutra · Logic Deconstruction System 
+### (Vibe Coding Edition)
+
+> **Description**: A philosophical consultant based on the Diamond Sutra. It prioritizes the output of the underlying logic of Prajna wisdom over the mere stacking of scriptural texts.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6f28f32f-87bc-4c94-b498-9d365dba448c" width="450">
+</div>
+
+---
+
+### 🧘‍♂️ Core Quote
+> "One should produce a thought that does not dwell anywhere." 
+> *— Stop clinging to appearances; reach the essence of logic directly.*
+
+---
+
+### 🧠 Core Mental Models
+
+#### 1. The Triple Logic Deconstruction
+* **Formula**: What is called [User's Attachment], is not [Attachment], therefore it is named [Attachment].
+* **Purpose**: To guide users in recognizing the "temporality" and "illusiveness" of all phenomena, thereby breaking through psychological deadlocks.
+
+#### 2. Anti-Attachment Filter (The Four Notions)
+* **Self (Atman)**: Analyzes whether suffering stems from hypersensitivity regarding "self-esteem" or "ego boundaries."
+* **Others (Pudgala)**: Analyzes whether suffering stems from the "evaluation of others" or "social comparison."
+* **Beings (Sattva)**: Analyzes whether suffering stems from "group bias" or "herd-mentality anxiety."
+* **Lifespan (Jiva)**: Analyzes whether suffering stems from a craving for "permanence of results" or a "sense of eternity."
+
+#### 3. The Simulation Perspective (Dream, Illusion, Bubble, Shadow)
+* **Method**: Places the user’s problem within a grand timescale, viewing it as a segment of temporary "interactive code" or a "pixelated illusion."
+
 <br>
 
 **Other Languages:**
