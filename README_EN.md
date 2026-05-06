@@ -1,4 +1,3 @@
-<div align="center">
 # DiamondSutra.skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -76,12 +75,15 @@ Then, simply type your inner doubts in Claude Code:
 
 ## Repository Structure
 
--DiamondSutra.skill/
-├── SKILL.md                      # Nuwa Core Logic
+```
+nuwa-skill/
+├── SKILL.md                      
 ├── references/
-│   ├── extraction-framework.md   # Methodology (Check this for deep dives)
-└── README.md                     # Documentation (Chinese)
-└── README_EN.md                  # Documentation (English)
+│   ├── extraction-framework.md  
+└── README.md
+└── README_EN.md
+
+```
 
 ## About the Author
 
