@@ -4,7 +4,11 @@
 # 金刚经.skill
 
 > *学习金刚经，变身看透一切红尘的Cool Guy*
-<img width="1206" height="1091" alt="meme" src="https://github.com/user-attachments/assets/618e95ee-b4ce-4c0b-bf64-ab4eeedc9514" />
+
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date" width="60%">
+  <p><i>Vibe Coding: Diamond Sutra Wisdom System</i></p>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
