@@ -14,10 +14,6 @@
 
 [English](README_EN.md) 
 
-<br>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
 </div>
 
 ---
