@@ -6,9 +6,7 @@
 > *学习金刚经，变身看透一切红尘的Cool Guy*
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6f28f32f-87bc-4c94-b498-9d365dba448c" w![Uploading meme.jpg…]()
-idth="40%">
-  <p><i>Vibe Coding: Diamond Sutra Wisdom System</i></p>
+  <img src="https://github.com/user-attachments/assets/6f28f32f-87bc-4c94-b498-9d365dba448c" width="200">
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
