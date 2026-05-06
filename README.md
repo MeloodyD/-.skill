@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6f28f32f-87bc-4c94-b498-9d365dba448c" w![Uploading meme.jpg…]()
-idth="60%">
+idth="40%">
   <p><i>Vibe Coding: Diamond Sutra Wisdom System</i></p>
 </div>
 
