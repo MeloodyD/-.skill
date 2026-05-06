@@ -6,7 +6,8 @@
 > *学习金刚经，变身看透一切红尘的Cool Guy*
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date" width="60%">
+  <img src="https://github.com/user-attachments/assets/6f28f32f-87bc-4c94-b498-9d365dba448c" w![Uploading meme.jpg…]()
+idth="60%">
   <p><i>Vibe Coding: Diamond Sutra Wisdom System</i></p>
 </div>
 
